@@ -7,7 +7,6 @@
 ## 連絡先
 
 - メール: koachan.dev@gmail.com
-- X (Twitter): [@koachandev](https://x.com/koachandev)
 
 ## 販売価格
 

@@ -85,4 +85,3 @@
 本規約に関するご質問は、以下までお問い合わせください。
 
 - メール: koachan.dev@gmail.com
-- X (Twitter): [@koachandev](https://x.com/koachandev)
